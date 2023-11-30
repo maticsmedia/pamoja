@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955847871512",
+    "project_id": "roomie-dd0e3",
+    "storage_bucket": "roomie-dd0e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955847871512:android:3cf29ddee6e94847eb476d",
+        "android_client_info": {
+          "package_name": "com.example.pamoja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0grgv8BGHqba0mUQEal0kHOdxsnoE54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
